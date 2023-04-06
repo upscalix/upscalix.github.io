@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkupscalix_website=self.webpackChunkupscalix_website||[]).push([[4157],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
